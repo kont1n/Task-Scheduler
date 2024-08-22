@@ -1,4 +1,4 @@
-package Task_Scheduler
+package main
 
 import (
 	"database/sql"
