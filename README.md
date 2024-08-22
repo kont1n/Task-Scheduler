@@ -7,7 +7,7 @@
 Веб-сервер по умолчанию работает на порту 7540.
 http://localhost:7540
 
-![alt text](https://github.com/kont1n/Task-Scheduler/blob/first-iteration/screenshot.png)
+![alt text](https://github.com/kont1n/Task-Scheduler/blob/main/screenshot.png)
 
 ## Тесты
 В директории `tests` находятся тесты для проверки API, которое должно быть реализовано в веб-сервере.
